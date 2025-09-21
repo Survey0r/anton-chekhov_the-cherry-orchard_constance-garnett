@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="act-2.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>The stage direction is an interjecting clause, and cannot have ending punctuation. The beginning of the clause starts with a capital letter because it is a persona's name.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
